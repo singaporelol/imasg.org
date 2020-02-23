@@ -1,0 +1,12 @@
+header{
+  background-color: #44413F;
+}
+header nav{
+  height: 100px;
+}
+header nav a img{
+  height: 80px;
+  width: 80px;
+}
+
+
