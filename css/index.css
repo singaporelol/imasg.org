@@ -1,6 +1,6 @@
-header{
+/* header{
   background-color: #44413F;
-}
+} */
 header nav{
   height: 100px;
 }
@@ -8,5 +8,18 @@ header nav a img{
   height: 80px;
   width: 80px;
 }
-
-
+header ul{
+  width: 100%;
+}
+header ul .row{
+  width: 100%;
+}
+header ul li{
+  text-align: center;
+  margin: 0 20px;
+  font-family: Knockout,Oswald, sans-serif;
+}
+/* carousel */
+#carousel-banner,#carousel-banner .carousel-item{
+  height: 500px;
+}
